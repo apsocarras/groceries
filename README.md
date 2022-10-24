@@ -1,6 +1,6 @@
 # _{Repo Name}_
 
-#### By _**{Author}**_
+#### By _**Alejandro Socarras, Celeste Grobey, Yodel Guanzon*_
 
 #### _{Brief Description}_
 
